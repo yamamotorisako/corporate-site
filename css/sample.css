@@ -339,5 +339,7 @@ h1 {
           display: inline-block;
           margin-bottom: 0;
           padding-right: 10px; } }
+#contents #main h2.company_title {
+  margin-bottom: 0px; }
 
 /*# sourceMappingURL=sample.css.map */
